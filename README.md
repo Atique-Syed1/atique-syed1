@@ -43,12 +43,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Atique-Syed1&show_icons=true" />
-</p>
+### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atique-Syed1&layout=compact" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Atique-Syed1&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atique-Syed1&layout=compact&theme=tokyonight" />
 </p>
 
 ---
